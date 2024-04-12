@@ -54,7 +54,7 @@ Overall, the case study aims to provide insights into the distribution of busine
 - Summarized key findings from the analysis, including insights into the distribution of businesses across Mumbai.
 - Provided recommendations based on identified ideal locations for different business types, offering valuable guidance for entrepreneurs and stakeholders interested in starting or expanding businesses in the city.
 
-## Question Can Be Asked
+## Some Important points
 
 ### Concept of K-means Clustering Algorithm
 
