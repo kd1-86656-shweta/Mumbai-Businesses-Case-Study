@@ -79,4 +79,6 @@ This README file provides an overview of the business case study, detailing the 
 screenshot
 ![image](https://github.com/user-attachments/assets/e3f732d5-c38f-4a9a-822b-4a0c087afef6)
 
+![image](https://github.com/user-attachments/assets/3832aa36-bba0-4181-9a22-8caa636a76b5)
+
 
