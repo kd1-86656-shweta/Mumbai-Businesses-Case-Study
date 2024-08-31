@@ -54,6 +54,7 @@ Overall, the case study aims to provide insights into the distribution of busine
 - Summarized key findings from the analysis, including insights into the distribution of businesses across Mumbai.
 - Provided recommendations based on identified ideal locations for different business types, offering valuable guidance for entrepreneurs and stakeholders interested in starting or expanding businesses in the city.
 
+
 ## Some Important points
 
 ### Concept of K-means Clustering Algorithm
@@ -73,4 +74,9 @@ Data cleaning and processing is the process of preparing raw data for analysis b
 ---
 
 This README file provides an overview of the business case study, detailing the technology used, steps followed, and concepts relevant to the analysis. It aims to serve as a comprehensive guide to the project and its methodologies.
+
+
+screenshot
+![image](https://github.com/user-attachments/assets/e3f732d5-c38f-4a9a-822b-4a0c087afef6)
+
 
